@@ -1,3 +1,5 @@
-# Altium-Designer-
-<img width="1100" height="825" alt="image" src="https://github.com/user-attachments/assets/5c8eed14-6c7f-4122-aeda-c5602699313c" />
-<img width="1061" height="765" alt="image" src="https://github.com/user-attachments/assets/9cc07943-cb8f-4a41-8aab-77383d4d4c9c" />
+4层工控主板
+<img width="1233" height="915" alt="image" src="https://github.com/user-attachments/assets/8489dddb-2355-4c11-a95d-eff2ad813655" />
+
+<img width="1194" height="882" alt="image" src="https://github.com/user-attachments/assets/7f5edf82-d360-47ec-b5ac-b562360efcf7" />
+
